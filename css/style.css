@@ -237,7 +237,7 @@ section.slider img {
     font-size: 20px;
 }
 .product1-item:nth-child(2){
-    background-image: url(../images/b14.jpg);
+    background-image: url(../Images/b14.jpg);
     background-size: cover;
     margin:0 20px;
     transition: transform 0.5s;
@@ -274,7 +274,7 @@ section.slider img {
     right: 10px;
 }
 .product1-item:nth-child(3){
-    background-image: url(../images/b8.jpg);
+    background-image: url(../Images/b8.jpg);
     background-size: cover; 
     transition: transform .5s;
 }
